@@ -1,0 +1,15 @@
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\bin\Debug\PiXiPaint.exe.config
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\bin\Debug\PiXiPaint.exe
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\bin\Debug\PiXiPaint.pdb
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint.csprojAssemblyReference.cache
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\MainWindow.g.cs
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\App.g.cs
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint_MarkupCompile.cache
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint_MarkupCompile.lref
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\MainWindow.baml
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint.g.resources
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint.Properties.Resources.resources
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint.csproj.GenerateResource.cache
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint.csproj.CoreCompileInputs.cache
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint.exe
+C:\Users\IsKaffe\source\repos\PiXiPaint\PiXiPaint\obj\Debug\PiXiPaint.pdb
